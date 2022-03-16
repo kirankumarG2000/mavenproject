@@ -1,4 +1,3 @@
 # mavenproject
 jenkins demo maven project
-
-docker build -t "jenkins name"
+uploaded to jenkins
